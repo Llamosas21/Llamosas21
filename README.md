@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Santiago Llamosas
+# Soy Santiago Llamosas
 
 ### 🚀 Desarrollador Full Stack & Especialista en Redes / Infraestructura (NOC · ISP · Automatización)
 
