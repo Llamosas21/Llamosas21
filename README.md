@@ -2,13 +2,9 @@
 
 # Soy Santiago Llamosas
 
-### 🚀 Desarrollador Full Stack & Especialista en Redes / Infraestructura (NOC · ISP · Automatización)
-
-📍 **Buenos Aires, Argentina**
-
-[![GitHub followers](https://img.shields.io/github/followers/Llamosas21?label=Seguidores&style=flat-square&logo=github&color=181717)](https://github.com/Llamosas21)
-[![Perfil GitHub](https://img.shields.io/badge/GitHub-@Llamosas21-181717?style=flat-square&logo=github)](https://github.com/Llamosas21)
-
+###  Desarrollador Full Stack & Especialista en Redes / Infraestructura (NOC · ISP · Automatización)
+ 
+ **Buenos Aires, Argentina**
 </div>
 
 ---
